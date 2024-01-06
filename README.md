@@ -1,4 +1,4 @@
-# ML-Projects
+# Image Classification
 
 This project aims to classify images of various animals using a pre-trained model. It utilizes a webcam to capture images, classify them, and announce the identified animal.
 
