@@ -1,0 +1,8 @@
+cv2
+gtts
+numpy
+os
+platform
+subprocess
+tensorflow.keras.models
+tensorflow.keras.preprocessing
